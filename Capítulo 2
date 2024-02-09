@@ -10,3 +10,13 @@ LAN: Es una red local, lo que quiere decir que está limitada a un área pequeñ
 WAN: Es una red de Área Amplia es una gran red de ordenadores que conecta grupos de ordenadores a grandes distancias.
 INTERNETWORK: Es una conexión de varias LAN o WAN
 INTERNET: Es la mayor red de redes a nivel global, está formada por una interconexión de redes WAN y LAN 
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+Internet es una red pública, el internetwork es donde se encuentran las redes públicas y privadas.
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+La Tarjeta de Interfaz de Red (NIC) es un componente de hardware que permite a un dispositivo conectarse a una red. 
+El puerto físico es la conexión tangible donde se enchufan los cables de red en la NIC o dispositivo. 
+La interfaz de red combina hardware (NIC) y software para gestionar la comunicación de red, 
+representando cómo el sistema interactúa con la red. Mientras la NIC y el puerto físico son componentes concretos, 
+la interfaz de red es un concepto más amplio que incluye aspectos de software y hardware.
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+porque es un estándar de comunicación.
