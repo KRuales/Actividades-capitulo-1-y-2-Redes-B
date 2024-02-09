@@ -9,3 +9,8 @@ d. Estar pendiente de mis deberes académicos
 e. Entretenimiento (ver series, peliculas, videos)
 2. Describir los factores que afectan la calidad de las comunicaciones.
 R/ Pueden ser factores externos e internos, por ejemplo el tamaño del mensaje, la importancia del mensaje, la cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación.
+3. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Reglas: Para que exista una comunicación eficiente, los protocolos son muy necesarios para para que ayuden a especificar como se deben enviar los mensajes  y cómo se deben comunicar a través de la red.
+Medio: Es el lugar de donde se envía el mensaje el cual debe estar conectado de manera inalámbrica o no.
+Mensaje: El mensaje es lo que el emisor quiere hacer llegar al receptor, este mensaje para que pueda ser transmitido por la red debe convertirse en un formato de bits, para que pueda ser enviado como una señal digital a través de la red.
+Dispositivo: Es el que permite la conexión a la red, la conversión del mensaje y el redireccionamiento del mismo. 
