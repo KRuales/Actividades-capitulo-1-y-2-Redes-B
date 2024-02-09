@@ -37,4 +37,11 @@ Capa de Aplicación: Define los protocolos para la interacción de software usua
 Capa de Transporte: Se encarga del transporte de datos entre puntos finales, proporcionando control de flujo, corrección de errores, y establecimiento de conexión. Utiliza principalmente TCP y UDP.
 Capa de Internet: Responsable de la entrega de paquetes desde el origen hasta el destino a través de redes interconectadas, manejando la dirección IP y el enrutamiento.
 Capa de Acceso a Red: Incluye todo lo necesario para una conexión física y lógica al medio de transmisión, abarcando desde el hardware de red hasta protocolos como Ethernet.
-
+Modelo OSI
+Capa de Aplicación: Proporciona servicios de red a las aplicaciones del usuario final.
+Capa de Presentación: Se encarga de la traducción, compresión y cifrado de datos
+Capa de Sesión: Establece, mantiene y finaliza las conexiones entre aplicaciones.
+Capa de Transporte: Proporciona servicios de transporte de extremo a extremo.
+Capa de Red: Enruta los paquetes entre redes
+Capa de Enlace de Datos: Controla el acceso al medio físico
+Capa Física: Transmite bits a través del medio físico.
