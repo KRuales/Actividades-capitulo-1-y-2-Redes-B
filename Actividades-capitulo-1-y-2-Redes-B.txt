@@ -40,4 +40,28 @@ La calidad de servicio es la que de alguna manera garantiza una comunicación co
 Para mantener una buena calidad de servicio se requiere hacer una clasificación y asignación de prioridades.
 8. ¿Por qué importa la calidad del servicio en una red de datos? 
 Porque esta se asegura de que se apliquen los mecanismos adecuados para cumplir con los objetivos.
+9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+Proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2): Diferencias clave
+Infraestructura:
+Nivel-1: Poseen una infraestructura global robusta, con múltiples conexiones a otras redes Tier-1 y puntos de intercambio de Internet (IXP). Esto les permite tener mayor capacidad y redundancia.
+Nivel-2: Su infraestructura suele ser regional o nacional, con conexiones a algunos IXP y Tier-1. Su capacidad y redundancia son menores.
+Alcance:
+Nivel-1: Ofrecen cobertura global, conectando a continentes y países entre sí.
+Nivel-2: Ofrecen cobertura regional o nacional, concentrándose en un área geográfica específica.
+Relaciones comerciales:
+Nivel-1: No pagan tarifas de interconexión a otros Tier-1, ya que tienen acuerdos de intercambio de tráfico. Venden ancho de banda a ISPs de Nivel-2 y empresas.
+Nivel-2: Pagan tarifas de interconexión a los Tier-1 para acceder a su red global. Venden acceso a Internet a usuarios finales y empresas locales.
+Otras diferencias:
+Costo: Los servicios de Nivel-1 suelen ser más costosos que los de Nivel-2.
+Fiabilidad: Los Tier-1 generalmente tienen mayor confiabilidad debido a su infraestructura robusta.
+Atención al cliente: Los Tier-2 pueden ofrecer un servicio más personalizado a sus clientes locales.
+En resumen:
+Los proveedores de Nivel-1 son los "mayoristas" de Internet, con una infraestructura global y relaciones directas con otras redes principales. Los proveedores de Nivel-2 son los "minoristas" de Internet, que compran ancho de banda a los Tier-1 y lo venden a usuarios finales y empresas locales.
+10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.	
+Ejemplos de proveedores:
+Nivel-1: AT&T, Verizon, Level 3, Cogent, China Mobile
+Nivel-2: Comcast, Time Warner Cable, Telefónica, Telmex, Movistar
+Proveedores de Internet en Colombia:
+Claro: Es el principal proveedor de telecomunicaciones en Colombia, con una amplia cobertura de servicios de internet móvil y fijo en todo el país.
+Movistar: Es el segundo mayor proveedor de telecomunicaciones en Colombia, con una fuerte presencia en el mercado de internet móvil y fijo.
 
