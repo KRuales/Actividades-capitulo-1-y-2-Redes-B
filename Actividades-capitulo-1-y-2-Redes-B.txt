@@ -64,4 +64,6 @@ Nivel-2: Comcast, Time Warner Cable, Telefónica, Telmex, Movistar
 Proveedores de Internet en Colombia:
 Claro: Es el principal proveedor de telecomunicaciones en Colombia, con una amplia cobertura de servicios de internet móvil y fijo en todo el país.
 Movistar: Es el segundo mayor proveedor de telecomunicaciones en Colombia, con una fuerte presencia en el mercado de internet móvil y fijo.
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+En un mundo donde el internet es tan importante para la comunicación, comercio e intercambio de información es de vital importancia los proveedores de Internet ya que juegan un gran papel en la sociedad. Ya que sirven como puerta de acceso, asegurando que los datos originados en la red de un cliente o ISP de flujo descendente lleguen a su destino. 
 
