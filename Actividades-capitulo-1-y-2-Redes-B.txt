@@ -23,3 +23,12 @@ R/ Es un proceso de comunicación que permite la transmisión de datos.
 R/ Son los elementos que componen la red 
 ¿Qué es una red convergente? 
 R/ Me permite enviar texto, voz, datos y videos a través de la misma red
+5. Describir las características de las arquitecturas de red
+Tolerante a fallas, 
+Que permite el redireccionamiento de la comunicación cuando esta falla, lo cual pareciera que no está fallando simplemente que busca otra ruta para que la información llegue a su destino.
+Escalabilidad, 
+La capacidad de poder agregar, dispositivos y usuarios a la red sin que esto perjudique a la red como tal.
+Calidad del servicio 
+La calidad en una arquitectura de red sirve para que la comunicación entre emisor y receptor  sea lo más parecida posible a la comunicación en la vida real.
+Seguridad. Mostrar sus respectivos ejemplos. 
+Es la que permite mantener segura la información de los usuarios y que no sea vulnerable a ataques, para eso se ha implementado el manejo de usuario con contraseñas.
