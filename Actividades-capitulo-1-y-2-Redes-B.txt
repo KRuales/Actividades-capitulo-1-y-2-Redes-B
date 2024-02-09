@@ -14,3 +14,12 @@ Reglas: Para que exista una comunicación eficiente, los protocolos son muy nece
 Medio: Es el lugar de donde se envía el mensaje el cual debe estar conectado de manera inalámbrica o no.
 Mensaje: El mensaje es lo que el emisor quiere hacer llegar al receptor, este mensaje para que pueda ser transmitido por la red debe convertirse en un formato de bits, para que pueda ser enviado como una señal digital a través de la red.
 Dispositivo: Es el que permite la conexión a la red, la conversión del mensaje y el redireccionamiento del mismo. 
+4. Responda con sus propias palabras:
+¿Qué son los datos?  
+R/ Es la información que se envía y recibe 
+¿Qué es una red de datos? 
+R/ Es un proceso de comunicación que permite la transmisión de datos.
+¿Qué entiende por arquitectura de red?
+R/ Son los elementos que componen la red 
+¿Qué es una red convergente? 
+R/ Me permite enviar texto, voz, datos y videos a través de la misma red
