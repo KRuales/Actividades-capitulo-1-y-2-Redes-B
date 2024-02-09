@@ -27,4 +27,14 @@ Capa de Aplicación: Controla la codificación
 Capa de Transporte: Permite la comunicación entre dispositivos de distintas redes.
 Capa de Internet: Determina la mejor ruta a través de la red
 Capa de Interfaz de Red: Controla los dispositivos Hardware y los medios de la red. 
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Los modelos de protocolo definen un conjunto de protocolos de red que trabajan juntos para lograr la comunicación entre dispositivos en una red. Ejemplos incluyen el conjunto de protocolos TCP/IP, que es fundamental para el funcionamiento de Internet.
+Los modelos de referencia, como el modelo OSI (Interconexión de Sistemas Abiertos), proporcionan un marco teórico para entender y desarrollar protocolos de comunicaciones en capas, pero no especifican protocolos en sí. Sirven como guías para la creación de redes y para entender cómo interactúan diferentes tecnologías y protocolos dentro de una arquitectura de red.
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP
+Capa de Aplicación: Define los protocolos para la interacción de software usuario-final, como HTTP para la web y SMTP para el correo electrónico.
+Capa de Transporte: Se encarga del transporte de datos entre puntos finales, proporcionando control de flujo, corrección de errores, y establecimiento de conexión. Utiliza principalmente TCP y UDP.
+Capa de Internet: Responsable de la entrega de paquetes desde el origen hasta el destino a través de redes interconectadas, manejando la dirección IP y el enrutamiento.
+Capa de Acceso a Red: Incluye todo lo necesario para una conexión física y lógica al medio de transmisión, abarcando desde el hardware de red hasta protocolos como Ethernet.
 
