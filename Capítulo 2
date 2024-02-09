@@ -1,0 +1,12 @@
+Preguntas de lectura: Capítulo 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+La red Proporciona el canal estable y confiable por el cual se producen las
+comunicaciones.
+Los dispositivos y medios son el componente físico o hardware de la red, en el caso de dispositivos pueden ser computadores o switch, en el caso de los medios alámbrico o inalámbrico. 
+Los servicios son el componente software que se ejecuta en los dispositivos que están conectados a una red para comunicarse
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+Red: Es un conjunto de dispositivos electrónicos que están interconectados para comunicarse entre sí
+LAN: Es una red local, lo que quiere decir que está limitada a un área pequeña y localizada. 
+WAN: Es una red de Área Amplia es una gran red de ordenadores que conecta grupos de ordenadores a grandes distancias.
+INTERNETWORK: Es una conexión de varias LAN o WAN
+INTERNET: Es la mayor red de redes a nivel global, está formada por una interconexión de redes WAN y LAN 
