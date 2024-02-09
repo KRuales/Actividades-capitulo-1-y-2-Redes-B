@@ -35,3 +35,9 @@ Es la que permite mantener segura la información de los usuarios y que no sea v
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
 Redes orientadas a la conexión: Se establece una conexión lógica entre los dispositivos, antes de enviar datos, los dispositivos deben negociar y establecer una conexión. (TCP es un ejemplo de protocolo orientado a la conexión). Este tipo de redes son mejores para aplicaciones que necesitan fiabilidad y control.
 Redes no orientadas a la conexión: Los dispositivos pueden enviar y recibir datos sin necesidad de hacer una conexión previa, no se necesita negociación. (UDP es un ejemplo de protocolo no orientado a conexión). Este tipo de redes son mejores para aplicaciones donde la latencia es crítica.
+7. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+La calidad de servicio es la que de alguna manera garantiza una comunicación continua y la utilización de los recursos de la red.
+Para mantener una buena calidad de servicio se requiere hacer una clasificación y asignación de prioridades.
+8. ¿Por qué importa la calidad del servicio en una red de datos? 
+Porque esta se asegura de que se apliquen los mecanismos adecuados para cumplir con los objetivos.
+
