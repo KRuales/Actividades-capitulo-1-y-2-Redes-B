@@ -20,3 +20,11 @@ representando cómo el sistema interactúa con la red. Mientras la NIC y el puer
 la interfaz de red es un concepto más amplio que incluye aspectos de software y hardware.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 porque es un estándar de comunicación.
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Un PDU es una estructura de datos utilizada para encapsular información antes de transmitirla a través de una red.
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Capa de Aplicación: Controla la codificación
+Capa de Transporte: Permite la comunicación entre dispositivos de distintas redes.
+Capa de Internet: Determina la mejor ruta a través de la red
+Capa de Interfaz de Red: Controla los dispositivos Hardware y los medios de la red. 
+
