@@ -32,3 +32,6 @@ Calidad del servicio
 La calidad en una arquitectura de red sirve para que la comunicación entre emisor y receptor  sea lo más parecida posible a la comunicación en la vida real.
 Seguridad. Mostrar sus respectivos ejemplos. 
 Es la que permite mantener segura la información de los usuarios y que no sea vulnerable a ataques, para eso se ha implementado el manejo de usuario con contraseñas.
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+Redes orientadas a la conexión: Se establece una conexión lógica entre los dispositivos, antes de enviar datos, los dispositivos deben negociar y establecer una conexión. (TCP es un ejemplo de protocolo orientado a la conexión). Este tipo de redes son mejores para aplicaciones que necesitan fiabilidad y control.
+Redes no orientadas a la conexión: Los dispositivos pueden enviar y recibir datos sin necesidad de hacer una conexión previa, no se necesita negociación. (UDP es un ejemplo de protocolo no orientado a conexión). Este tipo de redes son mejores para aplicaciones donde la latencia es crítica.
